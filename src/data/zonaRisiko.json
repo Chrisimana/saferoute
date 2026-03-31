@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [106.7741, -6.1944], [106.8100, -6.1944],
+          [106.8100, -6.1600], [106.7741, -6.1600], [106.7741, -6.1944]
+        ]]
+      },
+      "properties": {
+        "id": "zona-jk-001", "name": "Zona Utara Jakarta", "riskLevel": "Tinggi",
+        "description": "Area pesisir utara Jakarta dengan risiko banjir rob dan banjir bandang tinggi."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [106.8200, -6.2300], [106.8600, -6.2300],
+          [106.8600, -6.1950], [106.8200, -6.1950], [106.8200, -6.2300]
+        ]]
+      },
+      "properties": {
+        "id": "zona-jk-002", "name": "Zona Pusat Jakarta", "riskLevel": "Sedang",
+        "description": "Kawasan pusat kota dengan risiko banjir sedang saat hujan deras berkepanjangan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [106.7900, -6.3200], [106.8300, -6.3200],
+          [106.8300, -6.2800], [106.7900, -6.2800], [106.7900, -6.3200]
+        ]]
+      },
+      "properties": {
+        "id": "zona-jk-003", "name": "Zona Selatan Jakarta", "riskLevel": "Rendah",
+        "description": "Kawasan selatan Jakarta dengan elevasi lebih tinggi dan risiko banjir relatif rendah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [98.6200, 3.5500], [98.7200, 3.5500],
+          [98.7200, 3.6500], [98.6200, 3.6500], [98.6200, 3.5500]
+        ]]
+      },
+      "properties": {
+        "id": "zona-su-001", "name": "Zona Medan Utara", "riskLevel": "Sedang",
+        "description": "Kawasan utara Medan rentan banjir saat musim hujan akibat luapan Sungai Deli."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [98.6500, 3.5000], [98.7300, 3.5000],
+          [98.7300, 3.5500], [98.6500, 3.5500], [98.6500, 3.5000]
+        ]]
+      },
+      "properties": {
+        "id": "zona-su-002", "name": "Zona Medan Selatan", "riskLevel": "Rendah",
+        "description": "Kawasan selatan Medan dengan elevasi lebih tinggi dan risiko banjir rendah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [100.3200, -0.9800], [100.4000, -0.9800],
+          [100.4000, -0.9000], [100.3200, -0.9000], [100.3200, -0.9800]
+        ]]
+      },
+      "properties": {
+        "id": "zona-sb-001", "name": "Zona Padang Pesisir", "riskLevel": "Tinggi",
+        "description": "Kawasan pesisir Padang sangat rentan tsunami dan banjir rob."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [100.3500, -0.9500], [100.4200, -0.9500],
+          [100.4200, -0.8800], [100.3500, -0.8800], [100.3500, -0.9500]
+        ]]
+      },
+      "properties": {
+        "id": "zona-sb-002", "name": "Zona Padang Tengah", "riskLevel": "Sedang",
+        "description": "Kawasan tengah Padang dengan risiko banjir sedang dan potensi gempa."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [107.5800, -6.9500], [107.6600, -6.9500],
+          [107.6600, -6.8800], [107.5800, -6.8800], [107.5800, -6.9500]
+        ]]
+      },
+      "properties": {
+        "id": "zona-jb-001", "name": "Zona Bandung Utara", "riskLevel": "Sedang",
+        "description": "Kawasan utara Bandung rentan longsor dan banjir bandang dari Sungai Cikapundung."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [107.5900, -6.9800], [107.6700, -6.9800],
+          [107.6700, -6.9200], [107.5900, -6.9200], [107.5900, -6.9800]
+        ]]
+      },
+      "properties": {
+        "id": "zona-jb-002", "name": "Zona Bandung Selatan", "riskLevel": "Rendah",
+        "description": "Kawasan selatan Bandung dengan risiko bencana relatif rendah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.3800, -7.0200], [110.4600, -7.0200],
+          [110.4600, -6.9500], [110.3800, -6.9500], [110.3800, -7.0200]
+        ]]
+      },
+      "properties": {
+        "id": "zona-jt-001", "name": "Zona Semarang Bawah", "riskLevel": "Tinggi",
+        "description": "Kawasan bawah Semarang sangat rentan banjir rob dan penurunan tanah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.3900, -7.0600], [110.4700, -7.0600],
+          [110.4700, -7.0100], [110.3900, -7.0100], [110.3900, -7.0600]
+        ]]
+      },
+      "properties": {
+        "id": "zona-jt-002", "name": "Zona Semarang Atas", "riskLevel": "Rendah",
+        "description": "Kawasan atas Semarang dengan elevasi tinggi dan risiko banjir rendah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.3400, -7.8300], [110.4200, -7.8300],
+          [110.4200, -7.7600], [110.3400, -7.7600], [110.3400, -7.8300]
+        ]]
+      },
+      "properties": {
+        "id": "zona-yo-001", "name": "Zona Yogyakarta Selatan", "riskLevel": "Sedang",
+        "description": "Kawasan selatan Yogyakarta rentan banjir lahar dari Gunung Merapi saat hujan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.3500, -7.7800], [110.4300, -7.7800],
+          [110.4300, -7.7200], [110.3500, -7.7200], [110.3500, -7.7800]
+        ]]
+      },
+      "properties": {
+        "id": "zona-yo-002", "name": "Zona Yogyakarta Utara", "riskLevel": "Tinggi",
+        "description": "Kawasan utara Yogyakarta sangat rentan lahar Gunung Merapi dan gempa bumi."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [112.6800, -7.2800], [112.7600, -7.2800],
+          [112.7600, -7.2100], [112.6800, -7.2100], [112.6800, -7.2800]
+        ]]
+      },
+      "properties": {
+        "id": "zona-ji-001", "name": "Zona Surabaya Utara", "riskLevel": "Tinggi",
+        "description": "Kawasan utara Surabaya rentan banjir rob dan genangan air saat hujan deras."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [112.7000, -7.3200], [112.7800, -7.3200],
+          [112.7800, -7.2600], [112.7000, -7.2600], [112.7000, -7.3200]
+        ]]
+      },
+      "properties": {
+        "id": "zona-ji-002", "name": "Zona Surabaya Selatan", "riskLevel": "Rendah",
+        "description": "Kawasan selatan Surabaya dengan infrastruktur drainase lebih baik."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [115.1800, -8.6900], [115.2600, -8.6900],
+          [115.2600, -8.6200], [115.1800, -8.6200], [115.1800, -8.6900]
+        ]]
+      },
+      "properties": {
+        "id": "zona-ba-001", "name": "Zona Denpasar Selatan", "riskLevel": "Sedang",
+        "description": "Kawasan selatan Denpasar rentan banjir saat musim hujan dan abrasi pantai."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [115.2000, -8.6500], [115.2800, -8.6500],
+          [115.2800, -8.5800], [115.2000, -8.5800], [115.2000, -8.6500]
+        ]]
+      },
+      "properties": {
+        "id": "zona-ba-002", "name": "Zona Denpasar Utara", "riskLevel": "Rendah",
+        "description": "Kawasan utara Denpasar dengan risiko bencana relatif rendah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [119.3900, -5.1700], [119.4700, -5.1700],
+          [119.4700, -5.1000], [119.3900, -5.1000], [119.3900, -5.1700]
+        ]]
+      },
+      "properties": {
+        "id": "zona-sl-001", "name": "Zona Makassar Pesisir", "riskLevel": "Tinggi",
+        "description": "Kawasan pesisir Makassar rentan banjir rob dan abrasi pantai."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [119.4100, -5.1900], [119.4900, -5.1900],
+          [119.4900, -5.1200], [119.4100, -5.1200], [119.4100, -5.1900]
+        ]]
+      },
+      "properties": {
+        "id": "zona-sl-002", "name": "Zona Makassar Tengah", "riskLevel": "Sedang",
+        "description": "Kawasan tengah Makassar dengan risiko banjir sedang saat hujan deras."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [117.1000, -0.5200], [117.1800, -0.5200],
+          [117.1800, -0.4500], [117.1000, -0.4500], [117.1000, -0.5200]
+        ]]
+      },
+      "properties": {
+        "id": "zona-ki-001", "name": "Zona Samarinda Barat", "riskLevel": "Tinggi",
+        "description": "Kawasan barat Samarinda sangat rentan banjir akibat luapan Sungai Mahakam."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [117.1200, -0.5500], [117.2000, -0.5500],
+          [117.2000, -0.4800], [117.1200, -0.4800], [117.1200, -0.5500]
+        ]]
+      },
+      "properties": {
+        "id": "zona-ki-002", "name": "Zona Samarinda Timur", "riskLevel": "Sedang",
+        "description": "Kawasan timur Samarinda dengan risiko banjir sedang."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [119.8400, -0.9200], [119.9200, -0.9200],
+          [119.9200, -0.8500], [119.8400, -0.8500], [119.8400, -0.9200]
+        ]]
+      },
+      "properties": {
+        "id": "zona-st-001", "name": "Zona Palu Pesisir", "riskLevel": "Tinggi",
+        "description": "Kawasan pesisir Palu sangat rentan tsunami, likuifaksi, dan gempa bumi."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [128.1500, -3.7200], [128.2300, -3.7200],
+          [128.2300, -3.6500], [128.1500, -3.6500], [128.1500, -3.7200]
+        ]]
+      },
+      "properties": {
+        "id": "zona-ma-001", "name": "Zona Ambon Pesisir", "riskLevel": "Tinggi",
+        "description": "Kawasan pesisir Ambon rentan tsunami, banjir, dan tanah longsor."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [140.6400, -2.6200], [140.7200, -2.6200],
+          [140.7200, -2.5500], [140.6400, -2.5500], [140.6400, -2.6200]
+        ]]
+      },
+      "properties": {
+        "id": "zona-pa-001", "name": "Zona Jayapura Utara", "riskLevel": "Sedang",
+        "description": "Kawasan utara Jayapura rentan banjir dan tanah longsor saat hujan lebat."
+      }
+    }
+  ]
+}
