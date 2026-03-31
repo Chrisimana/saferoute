@@ -32,8 +32,6 @@ import 'leaflet/dist/leaflet.css'
 import { ref, onMounted, onUnmounted, provide, watch, nextTick } from 'vue'
 import { useRoute } from 'vue-router'
 import L from 'leaflet'
-if (typeof window !== 'undefined') window.L = L
-import 'leaflet-routing-machine'
 import EvacuationMarker from '@/components/EvacuationMarker.vue'
 import { getZoneStyle, buildPopupContent, getRouteStyle } from '@/utils/mapUtils.js'
 import evacuationPoints from '@/data/evacuationPoints.js'
@@ -58,7 +56,11 @@ let userMarker = null
 const mapContext = { instance: null }
 provide('leafletMap', mapContext)
 
-onMounted(() => {
+onMounted(async () => {
+  // leaflet-routing-machine needs window.L before it loads
+  window.L = L
+  await import('leaflet-routing-machine')
+
   delete L.Icon.Default.prototype._getIconUrl
   L.Icon.Default.mergeOptions({
     iconRetinaUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png',

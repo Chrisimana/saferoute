@@ -10,7 +10,8 @@ export default defineConfig({
     },
   },
   optimizeDeps: {
-    include: ['leaflet', 'leaflet-routing-machine'],
+    include: ['leaflet'],
+    exclude: ['leaflet-routing-machine'],
   },
   test: {
     environment: 'jsdom',
