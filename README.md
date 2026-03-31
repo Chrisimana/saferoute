@@ -89,11 +89,11 @@ Indonesia adalah salah satu negara paling rawan bencana di dunia. Berada di Cinc
 
 Kebutuhan yang melatarbelakangi proyek ini:
 
-- **Kurangnya akses informasi risiko yang mudah dipahami** — banyak sistem peringatan dini yang terlalu teknis dan sulit diakses masyarakat umum
-- **Minimnya panduan evakuasi berbasis lokasi** — masyarakat sering tidak tahu harus ke mana saat bencana terjadi
-- **Kebutuhan akan sistem real-time** — kondisi cuaca berubah cepat, dibutuhkan analisis risiko yang selalu diperbarui
-- **Pentingnya edukasi kebencanaan terpusat** — informasi prosedur evakuasi tersebar di berbagai sumber yang tidak terstruktur
-- **Aksesibilitas tanpa instalasi** — aplikasi berbasis browser memungkinkan siapa saja mengakses tanpa mengunduh aplikasi
+- **Kurangnya akses informasi risiko yang mudah dipahami** karena banyak sistem peringatan dini yang terlalu teknis dan sulit diakses masyarakat umum
+- **Minimnya panduan evakuasi berbasis lokasi** untuk masyarakat sering tidak tahu harus ke mana saat bencana terjadi
+- **Kebutuhan akan sistem real-time** saat kondisi cuaca berubah cepat, dibutuhkan analisis risiko yang selalu diperbarui
+- **Pentingnya edukasi kebencanaan terpusat** untuk informasi prosedur evakuasi tersebar di berbagai sumber yang tidak terstruktur
+- **Aksesibilitas tanpa instalasi** dari aplikasi berbasis browser memungkinkan siapa saja mengakses tanpa mengunduh aplikasi
 
 ---
 
