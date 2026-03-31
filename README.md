@@ -9,7 +9,6 @@
 ![Chart.js](https://img.shields.io/badge/Chart.js-4.5-FF6384?style=flat&logo=chart.js&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-4.1-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![fast-check](https://img.shields.io/badge/fast--check-4.6-blueviolet?style=flat)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat)
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat)
 
